@@ -1,0 +1,10 @@
+C:\YEDEK\10A\Uygulama10\Uygulama10\obj\Debug\Uygulama10.csproj.AssemblyReference.cache
+C:\YEDEK\10A\Uygulama10\Uygulama10\obj\Debug\Uygulama10.Form1.resources
+C:\YEDEK\10A\Uygulama10\Uygulama10\obj\Debug\Uygulama10.Properties.Resources.resources
+C:\YEDEK\10A\Uygulama10\Uygulama10\obj\Debug\Uygulama10.csproj.GenerateResource.cache
+C:\YEDEK\10A\Uygulama10\Uygulama10\obj\Debug\Uygulama10.csproj.CoreCompileInputs.cache
+C:\YEDEK\10A\Uygulama10\Uygulama10\bin\Debug\Uygulama10.exe.config
+C:\YEDEK\10A\Uygulama10\Uygulama10\bin\Debug\Uygulama10.exe
+C:\YEDEK\10A\Uygulama10\Uygulama10\bin\Debug\Uygulama10.pdb
+C:\YEDEK\10A\Uygulama10\Uygulama10\obj\Debug\Uygulama10.exe
+C:\YEDEK\10A\Uygulama10\Uygulama10\obj\Debug\Uygulama10.pdb
